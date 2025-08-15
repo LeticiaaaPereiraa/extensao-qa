@@ -24,7 +24,7 @@
 
 teste aprovado
 
-[vIDEO](https://jam.dev/c/87408c3e-1765-41c4-be99-60830f88f271)
+[VIDEO](https://jam.dev/c/87408c3e-1765-41c4-be99-60830f88f271)
 
 ---
 
