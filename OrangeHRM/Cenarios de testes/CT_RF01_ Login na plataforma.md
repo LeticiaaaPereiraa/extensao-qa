@@ -50,6 +50,9 @@ teste aprovado
 | :-------------------------------------------------------------- |
 | A mensagem de erro \"Invalid credentials\" deve ser exibida.    |
 
+[video](https://jam.dev/c/785c6d77-dba4-481a-97ec-307e5becb508)
+
+teste aprovado de senha dando erro na senha incorreta
 ---
 
 ### Caso de Teste 03: Tentativa de login com campos em branco.
