@@ -22,6 +22,10 @@
 | :-------------------------------------------------------------- |
 | O redirecionamento para o Dashboard deve ocorrer corretamente.  |
 
+teste aprovado
+
+[vIDEO](https://jam.dev/c/87408c3e-1765-41c4-be99-60830f88f271)
+
 ---
 
 ### Caso de Teste 02: Tentativa de login com senha incorreta.
