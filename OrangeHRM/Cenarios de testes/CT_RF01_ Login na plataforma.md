@@ -75,3 +75,7 @@ teste aprovado de senha dando erro na senha incorreta
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | Os campos obrigatórios devem exibir mensagens de validação.     |
+
+[video](https://jam.dev/c/79defcb8-c973-494b-9b22-c0ac21e34b2b)
+
+teste aprovado, erro nos campos em branco invalidando acesso!!!
