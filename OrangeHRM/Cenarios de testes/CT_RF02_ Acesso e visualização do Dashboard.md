@@ -45,6 +45,8 @@
 | :-------------------------------------------------------------- |
 | Todos os widgets principais devem ser visíveis e funcionais.     |
 
+[VIDEO](https://jam.dev/c/e34dbd98-69a9-4947-ae60-e74de47c688a)
+
 ---
 
 ### Caso de Teste 03: Acesso ao Dashboard com sessão expirada.
