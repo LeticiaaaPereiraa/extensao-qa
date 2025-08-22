@@ -69,3 +69,5 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A sessão expirada deve ser tratada corretamente com redirecionamento. |
+
+[VIDEO](https://jam.dev/c/605c19fc-3c31-4641-8496-c4f952632dfc)
