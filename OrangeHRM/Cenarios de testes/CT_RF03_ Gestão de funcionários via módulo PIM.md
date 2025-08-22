@@ -47,6 +47,8 @@
 | :-------------------------------------------------------------- |
 | Os campos obrigatórios devem exibir mensagens de validação.     |
 
+[video](https://jam.dev/c/d489a178-4380-47ac-bbc3-e86446a4fef6)
+
 ---
 
 ### Caso de Teste 03: Pesquisar funcionário já cadastrado.
