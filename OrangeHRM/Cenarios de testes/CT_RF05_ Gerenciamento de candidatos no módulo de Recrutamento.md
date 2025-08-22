@@ -48,6 +48,8 @@
 | :-------------------------------------------------------------- |
 | Os campos obrigatórios devem ser validados com mensagens de erro. |
 
+[VIDEO](https://jam.dev/c/3404bd64-ed5d-4737-8360-e245cc08b7fa)
+
 ---
 
 ### Caso de Teste 03: Buscar candidato cadastrado pelo nome.
