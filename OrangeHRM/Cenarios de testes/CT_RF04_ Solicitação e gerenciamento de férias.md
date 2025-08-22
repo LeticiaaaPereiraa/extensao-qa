@@ -23,6 +23,7 @@
 | :-------------------------------------------------------------- |
 | A solicitação deve aparecer listada em \"My Leave\".            |
 
+[VIDEO](https://jam.dev/c/0f0c23f9-013d-4915-af31-c442d4240281)
 ---
 
 ### Caso de Teste 02: Tentativa de solicitar férias sem selecionar tipo de licença.
