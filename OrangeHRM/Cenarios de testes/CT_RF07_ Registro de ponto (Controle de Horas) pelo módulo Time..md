@@ -45,6 +45,8 @@
 | :-------------------------------------------------------------- |
 | O sistema deve impedir o registro e apresentar mensagem adequada. |
 
+[VIDEO](https://jam.dev/c/de888c87-0f38-4d4c-ba42-a8df40b84c5b)
+
 ---
 
 ### Caso de Teste 03: Consultar registro de ponto anterior.
