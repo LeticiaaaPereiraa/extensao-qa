@@ -21,6 +21,8 @@
 | :-------------------------------------------------------------- |
 | O sistema deve confirmar o registro com uma mensagem e salvar o horário. |
 
+[video](https://jam.dev/c/aba2ce12-ac69-4661-b43a-e762df1e7a49)
+
 ---
 
 ### Caso de Teste 02: Tentar marcar ponto sem horário permitido ou fora do expediente.
