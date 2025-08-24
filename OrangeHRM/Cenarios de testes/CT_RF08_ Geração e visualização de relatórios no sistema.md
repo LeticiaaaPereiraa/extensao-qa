@@ -46,6 +46,8 @@
 | :-------------------------------------------------------------- |
 | O sistema deve bloquear a geração do relatório e exibir erro claro. |
 
+[video](https://jam.dev/c/d1732f79-475a-4fd2-a9f6-645538bb23b7)
+
 ---
 
 ### Caso de Teste 03: Exportar relatório gerado em PDF.
