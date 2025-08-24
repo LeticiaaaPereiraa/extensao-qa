@@ -70,3 +70,5 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O filtro deve funcionar corretamente e retornar apenas resultados válidos. |
+
+[VIDEO](https://jam.dev/c/eb8ee8c3-bea7-407d-802a-4d4adc8d73bb)
