@@ -47,6 +47,7 @@
 | :-------------------------------------------------------------- |
 | O sistema deve impedir o cadastro e exibir mensagem de duplicidade. |
 
+[VIDEO](https://jam.dev/c/6984db64-6c64-4a2f-a3fc-ffe7df151f9e)
 ---
 
 ### Caso de Teste 03: Filtrar usuários por status "Enabled".
