@@ -21,6 +21,8 @@
 | :-------------------------------------------------------------- |
 | O nome, cargo e localização do colaborador devem ser exibidos corretamente. |
 
+[VIDEO](https://jam.dev/c/7b7d77c9-5963-4d89-9eb7-fa02c40a20c9)
+
 ---
 
 ### Caso de Teste 02: Buscar colaborador inexistente.
