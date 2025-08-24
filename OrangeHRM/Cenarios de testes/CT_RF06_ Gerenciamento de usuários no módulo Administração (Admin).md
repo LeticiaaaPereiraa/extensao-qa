@@ -70,3 +70,5 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A lista deve conter apenas usuários com status "Enabled".       |
+
+[VIDEO](https://jam.dev/c/99a855e7-432b-44f1-8115-1b51db6a2ade)
