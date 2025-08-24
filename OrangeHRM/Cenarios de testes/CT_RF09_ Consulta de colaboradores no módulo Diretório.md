@@ -46,6 +46,8 @@
 | :-------------------------------------------------------------- |
 | O sistema deve exibir claramente que não há registros encontrados. |
 
+[VIDEO](https://jam.dev/c/3b9bf82e-c9b9-4e9b-b83a-c847df74010b)
+
 ---
 
 ### Caso de Teste 03: Aplicar filtro por cargo (Job Title).
