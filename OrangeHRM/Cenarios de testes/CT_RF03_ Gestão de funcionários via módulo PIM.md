@@ -22,6 +22,7 @@
 | :-------------------------------------------------------------- |
 | O funcionário deve aparecer corretamente listado no módulo PIM. |
 
+[VIDEO](https://jam.dev/c/a3e6fdcb-bea0-4910-abe4-ea14ca0835f8)
 ---
 
 ### Caso de Teste 02: Tentar adicionar funcionário sem preencher campos obrigatórios.
