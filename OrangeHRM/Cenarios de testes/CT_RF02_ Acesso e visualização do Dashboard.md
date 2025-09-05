@@ -20,6 +20,7 @@
 | :-------------------------------------------------------------- |
 | O sistema deve exibir corretamente a interface do Dashboard.     |
 
+[VIDEO](https://jam.dev/c/c918a50a-9f66-42f2-b229-cd1dfdc4226d)
 ---
 
 ### Caso de Teste 02: Verificação da exibição dos widgets do Dashboard.
