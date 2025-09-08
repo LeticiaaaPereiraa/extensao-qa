@@ -70,3 +70,4 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O candidato pesquisado deve ser exibido na lista de resultados. |
+[VIDEO](https://jam.dev/c/41980b63-2f9f-4278-bbe2-2c075c044ea1)
