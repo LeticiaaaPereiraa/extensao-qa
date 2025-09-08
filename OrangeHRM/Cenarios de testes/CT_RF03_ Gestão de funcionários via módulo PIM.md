@@ -69,3 +69,5 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O funcionário correspondente deve ser listado corretamente.     |
+
+[VIDEO](https://jam.dev/c/ad04c495-6c48-4043-834e-327b1a72890a)
