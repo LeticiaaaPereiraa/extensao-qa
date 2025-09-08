@@ -47,7 +47,7 @@
 | :-------------------------------------------------------------- |
 | O sistema deve impedir o cadastro e exibir mensagem de duplicidade. |
 
-[VIDEO]( O sistema deve impedir o cadastro de um novo usuário com nome de usuário duplicado.)
+[VIDEO](https://jam.dev/c/23247659-9d00-4968-8444-e2874104f8d6)
 
 ---
 
