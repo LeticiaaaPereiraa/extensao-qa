@@ -21,6 +21,7 @@
 | :-------------------------------------------------------------- |
 | O relatório deve apresentar os dados corretos conforme os filtros aplicados. |
 
+[VIDEO](https://jam.dev/c/da459da6-cd6d-4a53-abf9-6eea1810b8f2)
 ---
 
 ### Caso de Teste 02: Gerar relatório sem selecionar filtros obrigatórios.
@@ -44,6 +45,7 @@
 | :-------------------------------------------------------------- |
 | O sistema deve bloquear a geração do relatório e exibir erro claro. |
 
+[VIDEO](https://jam.dev/c/66723cfd-827e-4c5a-85fd-d41aa564329b)
 ---
 
 ### Caso de Teste 03: Exportar relatório gerado em PDF.
